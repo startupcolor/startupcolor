@@ -9,6 +9,9 @@
   <img src="https://github.com/startupcolor/startupcolor/blob/main/Assets/javascript.png" width="100" alt="javascript">
   <img src="https://github.com/startupcolor/startupcolor/blob/main/Assets/nodejs.png" width="100" alt="node">
   <img src="https://github.com/startupcolor/startupcolor/blob/main/Assets/c-sharp.png" width="100" alt="csharp">  
+  <img src="https://github.com/startupcolor/startupcolor/blob/main/Assets/sql.png" width="100" alt="sql">
+  <img src="https://github.com/startupcolor/startupcolor/blob/main/Assets/website.png" width="100" alt="https">
+  <img src="https://github.com/startupcolor/startupcolor/blob/main/Assets/github.png" width="100" alt="github">  
 </p>                  
  
  # This week  I spent my time  on : 
