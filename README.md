@@ -17,8 +17,9 @@
  # This week  I spent my time  on : 
 <details><summary>working on</summary>
 <p>
-    ```Should finish C# part
-    ```All tests should be "green"
+    ```Should create Angular App
+    ```Should finish FlightPlanner C# part [Done]
+    ```FlightPlanner all tests should be "green" [Done]
  </p>
 </details>
 <details><summary>learning</summary>
